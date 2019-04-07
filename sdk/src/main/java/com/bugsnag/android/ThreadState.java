@@ -11,7 +11,7 @@ import java.util.Map;
 import java.util.Set;
 
 /**
- * Capture and serialize the state of all threads at the time of an exception.
+ * Capture and nameValuePair the state of all threads at the time of an exception.
  */
 class ThreadState implements JsonStream.Streamable {
     private static final String THREAD_TYPE = "android";
