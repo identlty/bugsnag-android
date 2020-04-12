@@ -44,3 +44,6 @@ and release `bugsnag-android`, see our
 The Bugsnag Android notifier is free software released under the MIT License.
 See [LICENSE.txt](https://github.com/bugsnag/bugsnag-android/blob/master/LICENSE.txt)
 for details.
+
+
+ PMAK-5e92e798be017600387c8ade-38b83b54c94ccac305871b9a2acdf68936
