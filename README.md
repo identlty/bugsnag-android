@@ -46,4 +46,4 @@ See [LICENSE.txt](https://github.com/bugsnag/bugsnag-android/blob/master/LICENSE
 for details.
 
 
-PMAK-5e96c55ed1754e00feac4e50-75a7d4938b4a7ce4287cbb92f944793940
+PMAK-5e96c69fc3545f0139ec19f0-973fa86c5454fd96667e439a468ce89277
